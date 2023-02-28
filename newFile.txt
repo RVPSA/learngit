@@ -1,1 +1,2 @@
 this file was added after the creation of git repo. manually added.
+second update for newFile.txt from direct master branch
