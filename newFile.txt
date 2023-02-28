@@ -5,4 +5,10 @@ second update for newFile.txt from direct master branch
 5th update from master branch
 
 1st update from user2 branch
+<<<<<<< HEAD
 2nd update from user2 branch
+=======
+
+3rd update from user1 branch
+4th update from user1 branch
+>>>>>>> 56a4ded706d4dc75d398def76bfadd079f19deeb
